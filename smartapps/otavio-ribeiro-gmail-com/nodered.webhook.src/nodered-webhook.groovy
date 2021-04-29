@@ -7,6 +7,7 @@
 
 definition(
     name: "NodeRed WebHook",
+    namespace: "otavio.ribeiro.gmail.com",
     author: "Otávio Ribeiro <otavio.ribeiro@gmail.com>",
     description: "Send Smartthings events to a NodeRed webhook",
     category: "My Apps",
